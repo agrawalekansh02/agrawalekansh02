@@ -29,4 +29,4 @@
   <img align="left" alt="Ekansh's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 --->
-&nbsp;&nbsp;&nbsp; Website : [website](https://ekanshagrawal.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+&nbsp;&nbsp;&nbsp; Website : [ekanshagrawal.com](https://ekanshagrawal.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>

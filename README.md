@@ -1,4 +1,4 @@
-### Hi, I'm Ekansh! &nbsp;&nbsp;<sup>👾 &raquo; I automate ALL the things &raquo; ML and cloud-computing.</sup>
+### Hi, I'm Ekansh! &nbsp;&nbsp;<sup>👾 &raquo; I build a lot of things &raquo; ML and cloud-computing.</sup>
 
 ----
 

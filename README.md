@@ -1,4 +1,4 @@
-### Hi, I'm Ekansh! &nbsp;&nbsp;<sup>👾 &raquo; I build a lot of things &raquo; ML and cloud-computing.</sup>
+### Hi, I'm Ekansh! &nbsp;&nbsp; 👾 &raquo; I build a lot of things &raquo; ML and cloud-computing.
 
 ----
 
@@ -18,10 +18,10 @@
 ![berkeley](https://img.shields.io/static/v1?logo=berkeley&label=&message=berkeley&color=111&logoColor=FF0000&style=flat-square)
 
 
-**Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
+<!-- **Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
 <br/>
 **Digital Artist & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
--
+- -->
 
 <!---
 ----

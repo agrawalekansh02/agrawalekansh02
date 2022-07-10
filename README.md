@@ -17,16 +17,4 @@
 ![studiesat](https://img.shields.io/static/v1?label=&message=@:&color=555&style=flat-square)
 ![berkeley](https://img.shields.io/static/v1?logo=berkeley&label=&message=berkeley&color=111&logoColor=FF0000&style=flat-square)
 
-
-<!-- **Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
-<br/>
-**Digital Artist & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
-- -->
-
-<!---
-----
-<a href="https://twitter.com">
-  <img align="left" alt="Ekansh's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
---->
 &nbsp;&nbsp;&nbsp; Website : [ekanshagrawal.com](https://ekanshagrawal.com) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
